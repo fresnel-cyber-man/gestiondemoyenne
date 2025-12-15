@@ -3,3 +3,4 @@ sqlalchemy
 pandas
 python-dotenv
 fpdf2
+psycopg2-binary
